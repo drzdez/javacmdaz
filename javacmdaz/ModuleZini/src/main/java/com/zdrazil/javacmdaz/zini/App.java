@@ -12,7 +12,7 @@ public class App
         long s = 0;  
         for (long i = 0; i <= 1500000; i++){
             s = s + i;
-       
+       // upraveno
        }
                System.out.println (s);
 
